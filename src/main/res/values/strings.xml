@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="button">Refresh</string>
+    <string name="title">Accounts</string>
+    <string name="app">Bank App</string>
+    <string name="button_login">Login</string>
+    <string name="pass">Password</string>
+    <string name="create">Create Account</string>
+</resources>
